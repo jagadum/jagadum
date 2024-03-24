@@ -1,7 +1,8 @@
 ![Hello!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
 ### Nuthan Jarugumalli
 <h1 align="center">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" />
 
 #### DevOps Engineer
 
