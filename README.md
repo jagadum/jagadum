@@ -6,7 +6,7 @@
 
 #### DevOps Engineer
 
-🔭 Currently working on deploying cloud-native applications  
+🔭 I’m currently learning java script  
 🌱 Interested in Kubernetes, Terraform, and CI/CD pipelines  
 👯 Making the world better by automating processes and improving scalability  
 💬 Ask me about DevOps practices, cloud infrastructure, and automation tools  
