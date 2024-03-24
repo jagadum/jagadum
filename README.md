@@ -1,6 +1,8 @@
 ![Hello!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
 ### Nuthan Jarugumalli
+<h1 align="center">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif"
+
 #### DevOps Engineer
 
 🔭 Currently working on deploying cloud-native applications  
