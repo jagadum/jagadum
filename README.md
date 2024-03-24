@@ -54,3 +54,13 @@
 #### OS Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadum&show_icons=true&locale=en&layout=compact" alt="jagadum" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadum&show_icons=true&locale=en" alt="jagadum" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagadum&" alt="jagadum" /></p>
+
+
+
